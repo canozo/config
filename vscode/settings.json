@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+
+    // Editor
+    "editor.parameterHints": false,
+    "editor.wordWrap": "bounded",
+    "editor.renderWhitespace": "boundary",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    // "editor.fontFamily": "tewi",
+    
+    "editor.fontSize": 11,
+    "editor.wordWrapColumn": 120,
+
+    // Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": true,
+    "editor.tabSize": 2
+}

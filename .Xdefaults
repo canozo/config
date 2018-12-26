@@ -1,0 +1,78 @@
+! URxvt Settings
+URxvt.scrollBar:        false
+URxvt.geometry:         80x23
+URxvt.depth:            32
+URxvt.transparent:      false
+URxvt.fading:           0
+URxvt.saveLines:        500
+URxvt.internalBorder:   5
+URxvt.lineSpace:        0
+URxvt.pointerBlank:     true
+
+URxvt.url-launcher:     chromium-browser
+
+! Font
+URxvt.letterSpace:      0
+URxvt.font:             xft:Tewi:pixelsize=11:antialias=false
+URxvt.boldFont:         xft:Tewi:bold:pixelsize=11:antialias=false
+URxvt.italicFont:       xft:Tewi:pixelsize=11:antialias=false
+URxvt.boldItalicFont:   xft:Tewi:pixelsize=11:antialias=false
+
+! Cursor
+URxvt.cursorBlink:      true
+URxvt.cursorUnderline:  false
+!URxvt.cursorColor:     #
+
+
+! Colors
+*background: #151515
+*foreground: #d9d9d9
+
+! black
+*color0: #000000
+
+! bright_black
+*color8: #151515
+
+! red
+*color1: #e04793
+
+! bright_red
+*color9: #efa3c9
+
+! green
+*color2: #93e047
+
+! bright_green
+*color10: #c9efa3
+
+! yellow
+*color3: #e09347
+
+! bright_yellow
+*color11: #efc9a3
+
+! blue
+*color4: #4793e0
+
+! bright_blue
+*color12: #a3c9ef
+
+! magenta
+*color5: #9347e0
+
+! bright_magenta
+*color13: #c9a3ef
+
+! cyan
+*color6: #47e093
+
+! bright_cyan
+*color14: #a3efc9
+
+! white
+*color7: #d9d9d9
+
+! bright_white
+*color15: #ffffff
+
