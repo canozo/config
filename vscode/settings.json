@@ -1,20 +1,33 @@
 {
+    "files.hotExit": "onExit",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "bounded",
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.rulers": [79, 120],
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.snippetSuggestions": "none",
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+
+    "html.suggest.html5": false,
+
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+
+    "workbench.statusBar.feedback.visible": false,
     "workbench.startupEditor": "newUntitledFile",
 
-    // Editor
-    "editor.parameterHints": false,
-    "editor.wordWrap": "bounded",
-    "editor.renderWhitespace": "boundary",
-    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-    // "editor.fontFamily": "tewi",
-    
-    "editor.fontSize": 11,
-    "editor.wordWrapColumn": 120,
-
-    // Telemetry
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "window.zoomLevel": 0,
     "extensions.ignoreRecommendations": true,
-    "editor.tabSize": 2
+
+    "window.openFilesInNewWindow": "off",
+    "window.zoomLevel": 0,
 }
