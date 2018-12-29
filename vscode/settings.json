@@ -5,10 +5,11 @@
 
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
     "editor.tabSize": 2,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
-    "editor.rulers": [79, 120],
+    "editor.rulers": [100],
     "editor.parameterHints.enabled": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.snippetSuggestions": "none",
@@ -30,4 +31,5 @@
 
     "window.openFilesInNewWindow": "off",
     "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
 }
